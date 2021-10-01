@@ -4,10 +4,10 @@
 <p>
   I'm Francesco, 17 y.o.<br>
   I'm a student, Linux enthusiast (using arch btw) and freelance web developer.<br>
-  I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)
+  I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)</em>
 </p>
 
-<h2>Languages and tools that I use and I'm studying:</h2>
+<h2>🧰 Languages and tools that I use and I'm studying:</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<h2>IDEs, Code Editors and other softwares:</h2>
+<h2>✍️ IDEs, Code Editors and other softwares:</h2>
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </p>
 
-<h3>Operating systems I use:</h3>
+<h3>🖥️ Operating systems I use:</h3>
 <p>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
