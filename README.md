@@ -2,7 +2,7 @@
 
 <h2>💻 ~$ whoami</h2>
 <p>
-  I'm Francesco, 17 y.o.<br>
+  I'm <strong>Francesco</strong>, 17 y.o.<br>
   I'm a student, Linux enthusiast (using arch btw) and freelance web developer.<br>
   I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)</em>
 </p>
