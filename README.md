@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Francesco</h1>
+<h1 align="center">Hello world!</h1>
 <h3 align="center">Student, Linux enthusiast and freelance web developer.</h3>
+
+<h3 align="center">~$ whoami</h3>
 
 <p align="center">
   - 📚 I'm a high school student<br>
