@@ -8,6 +8,7 @@
 </p>
 
 <h3 align="center">Languages and tools that I use and I'm studying:</h3>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -39,6 +40,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+</div>
 
 <h3 align="center">IDEs, Code Editors and other softwares:</h3>
 
