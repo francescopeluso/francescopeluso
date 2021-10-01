@@ -2,9 +2,9 @@
 <h3 align="center">Student, Linux enthusiast and freelance web developer.</h3>
 
 <p align="center">
-  - 📚 I'm a high school student
-  - 🐧 Linux enthusiast (using arch btw)
-  - 👨‍💻 I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)</em>
+  - 📚 I'm a high school student<br>
+  - 🐧 Linux enthusiast (using arch btw)<br>
+  - 👨‍💻 I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)</em><br>
 </p>
   
 <h3 align="left">languages and tools that I'm studying and using:</h3>
