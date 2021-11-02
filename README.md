@@ -4,7 +4,9 @@
 <p>
   I'm <strong>Francesco</strong>, 17 y.o.<br>
   I'm a student, Linux enthusiast (using arch btw) and freelance web developer.<br>
-  I like coding and <ins>making websites</ins> <em>( <- won italian hackathon for this)</em>
+  I like coding and making websites.
+
+  Also, I won the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals.
 </p>
 
 <h2>🧰 Languages and tools that I use and I'm studying:</h2>
