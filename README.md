@@ -3,7 +3,7 @@
 <h2>💻 ~$ whoami</h2>
 <p>
   I'm <strong>Francesco</strong>, 17 y.o.<br>
-  I'm a student, Linux enthusiast (using arch btw) and freelance web developer.<br>
+  I'm a student and Linux enthusiast (using arch btw).<br>
   I like coding and making websites.
 
   Also, I won the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals.
