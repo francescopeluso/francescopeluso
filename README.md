@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
+  [Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
 </p>
 
 <h2>🧰 Languages and tools that I use and I'm studying:</h2>
