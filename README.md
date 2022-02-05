@@ -9,6 +9,10 @@
   Also, I won the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals.
 </p>
 
+<p>
+  ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
+</p>
+
 <h2>🧰 Languages and tools that I use and I'm studying:</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
