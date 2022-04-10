@@ -11,6 +11,7 @@
     <li>the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals;</li>
     <li>Phaser Game Jam 2022 in Baronissi (SA), ranked 4th out of 14.</li>
   </ul>
+  <br>
 </p>
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
