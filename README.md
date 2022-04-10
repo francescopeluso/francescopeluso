@@ -6,7 +6,11 @@
   I'm a student and Linux enthusiast (using arch btw).<br>
   I like coding and making websites.
 
-  Also, I won the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals.
+  Winner of...
+  <ul>
+    <li>the Italian EU CodeWeek Hackathons and I ranked 3rd, with my team, in the European finals;</li>
+    <li>Phaser Game Jam 2022 in Baronissi (SA), ranked 4th out of 14.</li>
+  </ul>
 </p>
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
