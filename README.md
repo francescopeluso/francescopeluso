@@ -2,9 +2,8 @@
 
 <h2>💻 ~$ whoami</h2>
 <p>
-  I'm <strong>Francesco</strong>, 17 y.o.<br>
-  I'm a student and Linux enthusiast (using arch btw).<br>
-  I like coding and making websites.
+  I'm <strong>Francesco</strong>, 18 y.o.<br>
+  I'm a student, Linux enthusiast, I like coding and making websites.
 
   Winner of...
   <ul>
