@@ -13,8 +13,6 @@
   <br>
 </p>
 
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescopeluso&show_icons=true&theme=tokyonight)
-
 <h2>🧰 Languages and tools that I use and I'm studying:</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
