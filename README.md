@@ -2,7 +2,7 @@
 
 <h2>💻 ~$ whoami</h2>
 <p>
-  I'm <strong>Francesco</strong>, 19 y.o.<br>
+  I'm <strong>Francesco</strong>, 20 y.o.<br>
   I'm a Computer Engineering student at University of Salerno, and a back-end software developer.
 
   Winner of...
